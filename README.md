@@ -1,4 +1,3 @@
-# packages
 # ERLANG and RabbitMQ installing:
 
 1. Erlang:
@@ -8,3 +7,4 @@ sudo apt-get update
 sudo apt-get install erlang
 
 2. RabbitMQ
+sudo apt-get install rabbitmq-server
