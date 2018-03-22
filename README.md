@@ -8,3 +8,4 @@ sudo apt-get install erlang<br>
 
 2. RabbitMQ<br>
 sudo apt-get install rabbitmq-server<br>
+sudo rabbitmq-plugins enable rabbitmq_management<br>
